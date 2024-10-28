@@ -2,15 +2,6 @@ body{
     margin: 0 auto;
     background-color: #B8E1FF;
 }
-
-div{
-    background-color: aliceblue;
-    width: 100%;
-    margin: auto;
-    margin-top: 10%;
-    padding: 1%;
-}
-
 h1, h2, h3{
     color: #75B9BE;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -55,4 +46,3 @@ button:hover{
     background-color: #829191;
     transition: 0.5s;
 }
-
